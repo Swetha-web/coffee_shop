@@ -260,3 +260,10 @@ padding-top: 5%;
 .im{
   font-size: 25%;
 }
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+*, .head, #pic1,.content, .home, .banner,.div3, #head1, #head2,#head3,#btnbtn, #box1,.con1,.con2,.btn2,#btn3,#sec3,#sec4,#title,#hi, .row,.row2,.row3,#btn4, #cen, .div5, .con3, .con4,.con5, .last, #one, #two,#th, .abc, #a,
+.p, .q, .r,.s,.ss,.tt,.uu,.vv, #abc, .im {
+    width: 100%;
+  }
+}
